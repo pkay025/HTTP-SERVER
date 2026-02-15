@@ -1,0 +1,39 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Jane Smith",
+      "role": "Software Engineer",
+      "salary": 95000,
+      "email": "jane.smith@techcorp.com"
+    },
+    {
+      "id": 2,
+      "name": "Michael Johnson",
+      "role": "Project Manager",
+      "salary": 105000,
+      "email": "michael.johnson@techcorp.com"
+    },
+    {
+      "id": 3,
+      "name": "Emily Davis",
+      "role": "UX Designer",
+      "salary": 80000,
+      "email": "emily.davis@techcorp.com"
+    },
+    {
+      "id": 4,
+      "name": "David Wilson",
+      "role": "DevOps Engineer",
+      "salary": 92000,
+      "email": "david.wilson@techcorp.com"
+    },
+    {
+      "id": 5,
+      "name": "Sarah Brown",
+      "role": "QA Engineer",
+      "salary": 75000,
+      "email": "sarah.brown@techcorp.com"
+    }
+  ]
+}

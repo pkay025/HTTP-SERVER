@@ -1,0 +1,26 @@
+{
+  "name": "http_server",
+  "version": "1.0.0",
+  "description": "My first http server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkay025/http_server.git"
+  },
+  "author": "Emmanuel Nunoo Mensah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pkay025/http_server/issues"
+  },
+  "homepage": "https://github.com/pkay025/http_server#readme",
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
